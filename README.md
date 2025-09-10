@@ -22,39 +22,27 @@ The report provides insights on what the survey participants have answered in a 
 
 ## Dashboard Highlights
 
-The report includes four main dashboards:
+The report includes six main dashboards:
 
-1. Salary Analysis
+1. Geographic spread of participants
 
-   . Salary distribution by role and country
+2. Most popular programming languages by the participants
 
-   . Relationship between age and salary
+3. Salary hierarchy across different job titles
 
-2. Programming Preferences
+4. Difficulty breaking into data roles
 
-   . Most popular programming languages
+5. Work/life balance across different jobs
 
-   . Language choice vs. average salary
-
-3. Career Entry & Satisfaction
-
-   . Difficulty breaking into data roles
-
-   . Work/life balance across different jobs
-
-4. Demographics
-
-   . Age distribution
-
-   . Geographic spread of participants
+6. Salary satisfaction
 
 ## Data Cleaning
 
-. Grouped uncommon responses into "Other" (job roles, programming languages, age, and countries)
+   - Grouped uncommon responses into "Other" (job roles, programming languages, age, and countries)
 
-. Cleaned salary column by removing symbols and converting to numeric values
+   - Cleaned salary column by removing symbols and converting to numeric values
 
-. Created a new Average Salary column
+   - Created a new Average Salary column
 
 
 ## Requirements
