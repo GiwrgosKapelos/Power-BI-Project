@@ -26,38 +26,43 @@ The report includes four main dashboards:
 
 1. Salary Analysis
 
-. Salary distribution by role and country
+   . Salary distribution by role and country
 
-. Relationship between age and salary
+   . Relationship between age and salary
 
 2. Programming Preferences
 
-. Most popular programming languages
+   . Most popular programming languages
 
-. Language choice vs. average salary
+   . Language choice vs. average salary
 
 3. Career Entry & Satisfaction
 
-. Difficulty breaking into data roles
+   . Difficulty breaking into data roles
 
-. Work/life balance across different jobs
+   . Work/life balance across different jobs
 
 4. Demographics
 
-. Age distribution
+   . Age distribution
 
-. Geographic spread of participants
+   . Geographic spread of participants
 
 ## 🧹 Data Cleaning
 
 Grouped uncommon responses into "Other" (job roles, programming languages, age, and countries)
+
 Cleaned salary column by removing symbols and converting to numeric values
+
 Created a new Average Salary column
 
+
 ## 🛠 Requirements
-Power BI Desktop (latest version recommended)
-Excel (for viewing/editing the dataset)
-[Optional] Power BI Service account for publishing
+Power BI Desktop (latest version recommended).
+
+Excel (for viewing/editing the dataset).
+
+[Optional] Power BI Service account for publishing.
 
 📄 License
 
