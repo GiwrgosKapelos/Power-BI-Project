@@ -22,15 +22,46 @@ The report provides insights on what the survey participants have answered in a 
 
 ## 📊 Dashboard Highlights
 
-KPI Tracking: [brief description]
+The report includes four main dashboards:
 
-Trend Analysis: [brief description]
+1. Salary Analysis
 
-Interactive Filters: [brief description]
+. Salary distribution by role and country
 
-## 🛠 Dependencies
+. Relationship between age and salary
 
-Power BI Desktop (latest version)
+2. Programming Preferences
 
-[Optional] Power BI Service for publishing
+. Most popular programming languages
 
+. Language choice vs. average salary
+
+3. Career Entry & Satisfaction
+
+. Difficulty breaking into data roles
+
+. Work/life balance across different jobs
+
+4. Demographics
+
+. Age distribution
+
+. Geographic spread of participants
+
+## 🧹 Data Cleaning
+
+Grouped uncommon responses into "Other" (job roles, programming languages, age, and countries)
+Cleaned salary column by removing symbols and converting to numeric values
+Created a new Average Salary column
+
+## 🛠 Requirements
+Power BI Desktop (latest version recommended)
+Excel (for viewing/editing the dataset)
+[Optional] Power BI Service account for publishing
+
+📄 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+
+✨ This project was built to practice Power BI data visualization and analysis using real-world survey data.
