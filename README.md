@@ -1,3 +1,5 @@
+![Project Photo](https://github.com/GiwrgosKapelos/Power-BI-Project/blob/main/docs/Project%20Screenshot.jpg)
+
 # Power-BI-Project
 
 This repository contains a Power BI project that analyzes data from an Excel source file.  
